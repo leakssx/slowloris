@@ -15,7 +15,7 @@ This exhausts the servers thread pool and the server can't reply to other people
 
 * `git clone https://github.com/leakssx/slowloris`
 * 'cd slowloris && chmod +x slowloris.py' 
-* `slowloris example.com`
+* ` python slowloris example.com`
 
 
 ### SOCKS5 proxy support
